@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "effort-gate",
+  "version": "0.2.0",
+  "description": "Prompts for an effort level (low/medium/high/xhigh/max) at the start of each new session and applies it via /effort before other work.",
+  "author": {
+    "name": "niksmac",
+    "email": "niksmac@lightrains.com"
+  },
+  "keywords": ["effort", "session", "startup", "claude-code"],
+  "skills": ["./"]
+}

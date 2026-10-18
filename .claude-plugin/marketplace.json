@@ -1,0 +1,12 @@
+{
+  "name": "claude-effort-gate",
+  "description": "A Claude Code plugin that prompts for and applies an effort level at the start of every session.",
+  "owner": { "name": "niksmac", "email": "niksmac@lightrains.com" },
+  "plugins": [
+    {
+      "name": "effort-gate",
+      "source": ".",
+      "description": "Prompts for and applies an effort level at session start."
+    }
+  ]
+}
