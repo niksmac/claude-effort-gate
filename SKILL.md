@@ -1,6 +1,6 @@
 ---
 name: effort-gate
-description: Use at the start of every session to set the effort level (low, medium, high, xhigh, max) for the session via CLAUDE_CODE_EFFORT_LEVEL, prompting interactively when attended. Trigger phrases: "effort", "set effort", "effort level".
+description: "Use at the start of every session to set the effort level (low, medium, high, xhigh, max) for the session via CLAUDE_CODE_EFFORT_LEVEL, prompting interactively when attended. Trigger phrases: effort, set effort, effort level."
 ---
 
 # effort-gate
